@@ -1,7 +1,7 @@
 {
-  "name": "typescript-command-line-tool-template",
+  "name": "tiny-wxml-to-vue-template",
   "version": "1.0.0",
-  "description": "typescript-command-line-tool-template",
+  "description": "个人练手写的一个小程序 WXML 模版语言转 Vue template 模版语言的编译器",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "tsc",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vabaly/typescript-command-line-tool-template.git"
+    "url": "git+https://github.com/vabaly/tiny-wxml-to-vue-template.git"
   },
   "keywords": [],
   "author": "vabaly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vabaly/typescript-command-line-tool-template/issues"
+    "url": "https://github.com/vabaly/tiny-wxml-to-vue-template/issues"
   },
-  "homepage": "https://github.com/vabaly/typescript-command-line-tool-template#readme",
+  "homepage": "https://github.com/vabaly/tiny-wxml-to-vue-template#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
